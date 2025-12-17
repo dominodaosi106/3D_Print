@@ -43,7 +43,8 @@ DIN レールへの取り付け部を再設計し、
 - 通常版（床置き / 水平設置）SMD_Reel_Holder_3.3mf
 - 壁掛け版（90 度回転）	SMD_Reel_Holder_3_wall_mount_90deg.3mf
 
-- SMD Reel Holder 2　改良版　reel_holder_2_domino.3mf
+- SMD Reel Holder 2 （改良版） reel_holder_2_domino.3mf
+--旧型SMD Reel Holder 2 を改良したものです。ツメが折れにくくしました。
 
 用途に応じてお好みのモデルを選択してください。
   
